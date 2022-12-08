@@ -1,6 +1,6 @@
-## Hi! My name is Dion Pham 👋
+# Hi! My name is Dion Pham 👋
 
-### About me: 
+## About me: 
 ```javascript
 const Dion = {
   pronouns: "he" | "him",
@@ -15,20 +15,15 @@ const Dion = {
 * I graduated from [App Academy](https://www.appacademy.io/) 🧑‍💻 in December 2022. 
 
 ## Github Statistics
-<div align="center">
+<div align="left">
 <aref="https://github.com/dion-pham"><img src="https://github-readme-stats.vercel.app/api?username=dion-pham&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true&count_private=true" alt="Dion Pham github stats" /></a>
   
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=dion-pham&theme=tokyonight_duo&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
   
 <a ref="https://github.com/dion-pham"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dion-pham&layout=compact&theme=tokyonight" alt="Dion Pham github stats" /></a>
-  
-  
 </div>
 
-
-
-
-### Contact Me: 
+## Contact Me: 
 <div id="badges">
   <a href="https://www.linkedin.com/in/dinhan-dion-pham-9b4ab0152/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
