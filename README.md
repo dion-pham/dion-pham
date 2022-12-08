@@ -7,7 +7,7 @@ const Dion = {
   code: [Javascript, Python,  HTML5, CSS3],
   tools: [React, Redux, Node, Express, Flask, Postgres, SQLAlchemy, SQLite3, Heroku, Render],
   challenge: "Currently exploring AWS API",
-  hobbies: [web developement, gymming, fashion and street-ware, football]
+  hobbies: [web development, gymming, fashion and street-ware, football]
 }
 ```
 
