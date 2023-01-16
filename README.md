@@ -16,11 +16,11 @@ const Dion = {
 
 ## Github Statistics
 <div align="left">
-<aref="https://github.com/dion-pham"><img src="https://github-readme-stats.vercel.app/api?username=dion-pham&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true&count_private=true" alt="Dion Pham github stats" /></a>
+<aref="https://github.com/dion-pham"><img src="https://github-readme-stats-sigma-five.vercel.app/api?username=dion-pham&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true&count_private=true" alt="Dion Pham github stats" /></a>
   
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=dion-pham&theme=tokyonight_duo&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
   
-<a ref="https://github.com/dion-pham"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dion-pham&layout=compact&theme=tokyonight" alt="Dion Pham github stats" /></a>
+<a ref="https://github.com/dion-pham"><img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=dion-pham&layout=compact&theme=tokyonight" alt="Dion Pham github stats" /></a>
 </div>
 
 ## Contact Me: 
