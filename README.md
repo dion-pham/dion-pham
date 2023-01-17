@@ -6,7 +6,6 @@ const Dion = {
   pronouns: "he" | "him",
   code: [Javascript, Python,  HTML5, CSS3],
   tools: [React, Redux, Node, Express, Flask, Postgres, SQLAlchemy, SQLite3, Heroku, Render],
-  challenge: "Currently exploring Tailwind CSS, Typescript and AWS API",
   hobbies: [web development, gymming, fashion and street-ware, football]
 }
 ```
