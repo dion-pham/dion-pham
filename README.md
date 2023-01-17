@@ -6,7 +6,7 @@ const Dion = {
   pronouns: "he" | "him",
   code: [Javascript, Python,  HTML5, CSS3],
   tools: [React, Redux, Node, Express, Flask, Postgres, SQLAlchemy, SQLite3, Heroku, Render],
-  hobbies: [web development, gymming, fashion and street-ware, football]
+  hobbies: [web development, gymming, fashion and street-wear, football]
 }
 ```
 
