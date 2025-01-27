@@ -11,7 +11,6 @@ const Dion = {
 ```
 
 * 🧸 I graduated from UCLA with a B.S. in Psychobiology Class of 2021. 
-* 🧑‍💻 I graduated from [App Academy](https://www.appacademy.io/) in December 2022. 
 * 🌟 Check out my [portfolio!](https://dion-pham.github.io/)
 * 📲 Reach me at my [Linkedin](https://www.linkedin.com/in/dinhan-dion-pham-9b4ab0152/)
 * Currently learning: Typescript
