@@ -3,36 +3,25 @@
 ## About me: 
 ```javascript
 const Dion = {
-  pronouns: "he" | "him",
-  code: [Javascript, Python,  HTML5, CSS3],
-  tools: [React, Redux, Node, Express, Flask, Postgres, SQLAlchemy, SQLite3, Heroku, Render],
-  hobbies: [web development, gymming, fashion and street-wear, football]
+  pronouns: "he/him",
+  code: ["JavaScript/TypeScript", "Python"],
+  tools: ["React", "Node.js", "Express", "Postgres", "Playwright", "Flask", "SQLAlchemy"],
+  ai: ["Claude Code", "Cursor", "MCP", "Prompt Engineering", "RAG"],
+  integrations: ["Salesforce", "Notion API", "Stripe", "OAuth"],
+  hobbies: ["web development", "gymming", "fashion and street-wear", "football"]
 }
 ```
 
-* 🧸 I graduated from UCLA with a B.S. in Psychobiology Class of 2021. 
-* 🌟 Check out my [portfolio!](https://dion-pham.github.io/)
-* 📲 Reach me at my [Linkedin](https://www.linkedin.com/in/dinhan-dion-pham-9b4ab0152/)
-* Currently learning: Typescript
-
-## Github Statistics
-<div align="left">
-<aref="https://github.com/dion-pham"><img src="https://github-readme-stats-sigma-five.vercel.app/api?username=dion-pham&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true&count_private=true" alt="Dion Pham github stats" /></a>
-  
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=dion-pham&theme=tokyonight_duo&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-  
-<a ref="https://github.com/dion-pham"><img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=dion-pham&layout=compact&theme=tokyonight" alt="Dion Pham github stats" /></a>
-</div>
+* 🧸 I graduated from UCLA with a B.S. in Psychobiology, pivoting to development shortly after. 
+* 📲 Reach me at my [Linkedin](https://www.linkedin.com/in/dion-pham/)
+* 🌱 Currently learning: RAG, Docker, pgvector, LLM evals
 
 ## Contact Me: 
 <div id="badges">
-  <a href="https://www.linkedin.com/in/dinhan-dion-pham-9b4ab0152/">
+  <a href="https://www.linkedin.com/in/dion-pham/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://angel.co/u/dion-pham">
-    <img src="https://img.shields.io/badge/AngelList-%23D4D4D4.svg?style=for-the-badge&logo=AngelList&logoColor=black" alt="AngelList Badge"/>
-  </a>
-    <a href="mailto:dinhanpham310@gmail.com">
+    <a href="mailto:dionpham1@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
 </div>
